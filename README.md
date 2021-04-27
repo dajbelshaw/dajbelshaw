@@ -1,1 +1,1 @@
-### Am I supposed to put something here? 🤔
+[![Doug's GitHub stats](https://github-readme-stats.vercel.app/api?username=dajbelshaw)](https://github.com/anuraghazra/github-readme-stats)
